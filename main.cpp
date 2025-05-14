@@ -48,3 +48,23 @@
 //
 //     return 0;
 // } CONST
+
+// #include <iostream>
+// namespace first {
+//     int x = 1;
+// }
+// namespace second {
+//     int x = 2;
+// }
+// int main() {
+//     // int x = 0;
+//     // std::cout << second::x << std::endl;
+//     using namespace first;
+//     std::cout << x << std::endl;
+//     using std::cout;
+//     using std::string;
+//     string name = "ahmad";
+//     cout << name << std::endl;
+//
+//     return 0;
+// } NAMESPACES
