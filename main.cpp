@@ -68,3 +68,22 @@
 //
 //     return 0;
 // } NAMESPACES
+
+// #include <iostream>
+// #include <vector>
+// // typedef std::vector<std::pair<std::string, int>> pairlist_t;
+// // typedef std::string text_t;
+// // typedef int number_t;
+// using text_t = std::string;
+// using number_t = int;
+// int main() {
+//     // pairlist_t pairlist;
+//     text_t name = "ahmad";
+//     std::cout << name << std::endl;
+//     number_t age = 22;
+//     std::cout << age << std::endl;
+//
+//
+//
+//     return 0;
+// } TYPEDEF AND TYPE ALIASES
