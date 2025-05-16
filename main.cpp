@@ -87,3 +87,26 @@
 //
 //     return 0;
 // } TYPEDEF AND TYPE ALIASES
+
+// #include <iostream>
+// int main() {
+//     int students = 20;
+//     // students = students + 1;
+//     // students += 2;
+//     // students++;
+//     // students = students - 1;
+//     // students -= 2;
+//     // students --;
+//     // students = students * 2;
+//     // students *= 2;
+//     // students /= 2;
+//     // students /= 3;
+//     // int remainder = students%3;
+//     // std::cout << students << std::endl;
+//     // std::cout << remainder << std::endl;
+//     // PEMDAS
+//     int students2 = 6 - 5 + 4 * 3 / 2;
+//     std::cout << students2 << std::endl;
+//
+//     return 0;
+// } ARITHMETIC OPERATORS
