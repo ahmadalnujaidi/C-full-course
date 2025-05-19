@@ -125,3 +125,26 @@
 //
 //     return 0;
 // } TYPE CONVERSION
+
+// #include <iostream>
+// int main() {
+//     // cout << (insertion operator)
+//     // cin >> (extraction operator)
+//
+//     std::string name;
+//     std::cout << "whats ur name?: ";
+//     std::cin >> name;
+//     std::cout << "Hello, " << name << std::endl;
+//
+//     std::string full_name;
+//     std::cout << "Enter your full name: ";
+//     std::getline(std::cin >> std::ws, full_name);
+//     std::cout << "Hello, " << full_name << std::endl;
+//
+//     int age;
+//     std::cout << "Enter your age: ";
+//     std::cin >> age;
+//     std::cout << "your are " << age << " old";
+//
+//     return 0;
+// } USER INPUT
