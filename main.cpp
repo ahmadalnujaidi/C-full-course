@@ -185,3 +185,24 @@
 //
 //     return 0;
 // } HYPOTENUSE CALCULATOR PRACTICE PROGRAM
+
+// #include <iostream>
+// int main() {
+//     int age;
+//     std::cout << "Enter your age: ";
+//     std::cin >> age;
+//     if (age >= 18 && age < 100) {
+//         std::cout << "welcome to the site!";
+//     }
+//     else if (age < 0) {
+//         std::cout << "you havent been born";
+//     }
+//     else if (age >= 100) {
+//         std::cout << "you are too old";
+//     }
+//     else {
+//         std::cout << "you arent old enough";
+//     }
+//
+//     return 0;
+// } IF STATEMENTS
