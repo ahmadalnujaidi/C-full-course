@@ -323,3 +323,22 @@
 //
 //     return 0;
 // } CONSOLE CALCULATOR PROGRAM
+
+// #include <iostream>
+// int main() {
+//
+//     int grade = 50;
+//     grade >= 60 ? std::cout << "you pass" : std::cout << "you fail!";
+//
+//     int number;
+//     std::cout << "Enter your number: ";
+//     std::cin >> number;
+//     number % 2 == 0 ? std::cout << "your number is even" : std::cout << "your number is odd";
+//
+//     bool hungry = false;
+//     // hungry ? std::cout << "hungry!!!!" : std::cout << "FULL TO THE STOMACH!!!!";
+//     std::cout << (hungry? "you  are hungry" : "you are full");
+//
+//
+//     return 0;
+// } TERNARY OPERATOR
