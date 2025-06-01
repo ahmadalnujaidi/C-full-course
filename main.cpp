@@ -342,3 +342,28 @@
 //
 //     return 0;
 // } TERNARY OPERATOR
+
+// #include <iostream>
+// int main () {
+//     int temp;
+//     std::cout << "enter temp: ";
+//     std::cin >> temp;
+//     // if (temp > 0 && temp <30) {
+//     //     std:: cout << "the temp is good";
+//     // } else {
+//     //     std::cout << "the temp is bad";
+//     // }
+//     // if (temp <= 0 || temp >= 30) {
+//     //     std::cout << "bad temp";
+//     // } else {
+//     //     std::cout << "the temp is good";
+//     // }
+//     bool sunny = true;
+//     if (!sunny) {
+//         std::cout << "it is sunny" << std::endl;
+//     } else {
+//         std::cout << "it is not sunny" << std::endl;
+//     }
+//
+//     return 0;
+// } LOGICAL OPERATORS
