@@ -398,3 +398,33 @@
 //
 //     return 0;
 // } TEMP CONVERSION PROGRAM
+
+// #include <iostream>
+// int main() {
+//     std::string name;
+//     std::cout << "Enter your name: ";
+//     std::getline(std::cin, name);
+//
+//     // if (name.length() > 12) {
+//     //     std::cout << "Your name is too long";
+//     // } else {
+//     //     std::cout << "welcome " << name;
+//     // }
+//     // if (name.empty()) {
+//     //     std::cout << " your name is empty";
+//     // } else {
+//     //     std::cout << "hello " << name;
+//     // }
+//     // name.clear();
+//     // std::cout << name << "\n";
+//     // name.append("@gmail.com");
+//     // std::cout << name << std::endl;
+//     // std::cout << name.at(0) << std::endl;
+//     // name.insert(0, "@");
+//     // std::cout << name << std::endl;
+//     // std::cout << name.find(' ');
+//     name.erase(0,5);
+//     std::cout << name << std::endl;
+//
+//     return 0;
+// } USEFUL STRING METHODS
