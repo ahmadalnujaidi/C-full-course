@@ -428,3 +428,15 @@
 //
 //     return 0;
 // } USEFUL STRING METHODS
+
+// #include <iostream>
+// int main() {
+//     std::string name;
+//     while (name.empty()) {
+//         std::cout << "Please enter your name: ";
+//         std::getline(std::cin, name);
+//     }
+//     std::cout <<"hello " << name << std::endl;
+//
+//     return 0;
+// } WHILE LOOPS
